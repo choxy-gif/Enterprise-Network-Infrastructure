@@ -32,5 +32,9 @@ Network Segmentation
 Cisco Switching
 Routing
 Network Security
+
+## Author
+Samuel Machoka Arita
+Bachelor of Information Security and Forensics
 Firewall Configuration
 Wireless Networking
